@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "generate": "node src/scripts/generateProducts",
-    "getMinPrice": "node src/scripts/getProductsByMinPrice"
+    "getMinPrice": "node src/scripts/getProductsByMinPrice",
+    "totalPrice": "node src/scripts/getTotalPrice",
+    "productsCategores": "node src/scripts/getProductsCategores",
+    "modifyProducts": "node src/scripts/modifyProducts"
   },
   "keywords": [],
   "author": "Oleksandr Prokopchuk <sasha195@i.ua>",

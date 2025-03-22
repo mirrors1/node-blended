@@ -2,31 +2,126 @@
   {
     "name": "Small Gold Mouse",
     "price": "527.79",
-    "category": "Home",
-    "description": "Our crunchy-inspired Bike brings a taste of luxury to your purple lifestyle"
+    "category": "Home"
   },
   {
     "name": "Soft Bronze Gloves",
     "price": "101.09",
-    "category": "Shoes",
-    "description": "Gorgeous Computer designed with Plastic for buttery performance"
+    "category": "Shoes"
   },
   {
     "name": "Modern Silk Pizza",
     "price": "339.55",
-    "category": "Home",
-    "description": "Stylish Cheese designed to make you stand out with fair looks"
+    "category": "Home"
   },
   {
     "name": "Modern Rubber Shirt",
     "price": "471.75",
-    "category": "Toys",
-    "description": "The sleek and amused Pants comes with gold LED lighting for smart functionality"
+    "category": "Toys"
   },
   {
     "name": "Intelligent Gold Towels",
     "price": "67.09",
-    "category": "Outdoors",
-    "description": "Fantastic Soap designed with Wooden for practical performance"
+    "category": "Outdoors"
+  },
+  {
+    "name": "Oriental Bamboo Chair",
+    "price": "703.49",
+    "category": "Shoes"
+  },
+  {
+    "name": "Recycled Metal Ball",
+    "price": "214.99",
+    "category": "Computers"
+  },
+  {
+    "name": "Gorgeous Bamboo Cheese",
+    "price": "355.49",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Fantastic Wooden Pants",
+    "price": "193.35",
+    "category": "Tools"
+  },
+  {
+    "name": "Tasty Rubber Tuna",
+    "price": "564.45",
+    "category": "Home"
+  },
+  {
+    "name": "Elegant Gold Tuna",
+    "price": "288.59",
+    "category": "Music"
+  },
+  {
+    "name": "Tasty Aluminum Pants",
+    "price": "395.59",
+    "category": "Grocery"
+  },
+  {
+    "name": "Small Bamboo Keyboard",
+    "price": "206.29",
+    "category": "Outdoors"
+  },
+  {
+    "name": "Generic Ceramic Bike",
+    "price": "725.09",
+    "category": "Industrial"
+  },
+  {
+    "name": "Intelligent Marble Chips",
+    "price": "933.19",
+    "category": "Health"
+  },
+  {
+    "name": "Elegant Ceramic Keyboard",
+    "price": "483.59",
+    "category": "Baby"
+  },
+  {
+    "name": "Recycled Gold Ball",
+    "price": "516.89",
+    "category": "Books"
+  },
+  {
+    "name": "Intelligent Marble Salad",
+    "price": "254.99",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Bespoke Metal Bike",
+    "price": "670.05",
+    "category": "Kids"
+  },
+  {
+    "name": "Modern Ceramic Chips",
+    "price": "766.99",
+    "category": "Games"
+  },
+  {
+    "name": "Luxurious Steel Salad",
+    "price": "965.65",
+    "category": "Toys"
+  },
+  {
+    "name": "Handcrafted Concrete Mouse",
+    "price": "88.25",
+    "category": "Garden"
+  },
+  {
+    "name": "Unbranded Bamboo Sausages",
+    "price": "680.85",
+    "category": "Music"
+  },
+  {
+    "name": "Fantastic Plastic Keyboard",
+    "price": "224.49",
+    "category": "Garden"
+  },
+  {
+    "name": "Handcrafted Wooden Ball",
+    "price": "187.99",
+    "category": "Grocery"
   }
 ]
