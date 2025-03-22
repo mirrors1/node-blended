@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Small Gold Mouse",
+    "price": "527.79",
+    "category": "Home",
+    "description": "Our crunchy-inspired Bike brings a taste of luxury to your purple lifestyle"
+  },
+  {
+    "name": "Soft Bronze Gloves",
+    "price": "101.09",
+    "category": "Shoes",
+    "description": "Gorgeous Computer designed with Plastic for buttery performance"
+  },
+  {
+    "name": "Modern Silk Pizza",
+    "price": "339.55",
+    "category": "Home",
+    "description": "Stylish Cheese designed to make you stand out with fair looks"
+  },
+  {
+    "name": "Modern Rubber Shirt",
+    "price": "471.75",
+    "category": "Toys",
+    "description": "The sleek and amused Pants comes with gold LED lighting for smart functionality"
+  },
+  {
+    "name": "Intelligent Gold Towels",
+    "price": "67.09",
+    "category": "Outdoors",
+    "description": "Fantastic Soap designed with Wooden for practical performance"
+  }
+]

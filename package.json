@@ -1,0 +1,17 @@
+{
+  "name": "blended",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/scripts/generateProducts",
+    "getMinPrice": "node src/scripts/getProductsByMinPrice"
+  },
+  "keywords": [],
+  "author": "Oleksandr Prokopchuk <sasha195@i.ua>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.6.0"
+  }
+}
