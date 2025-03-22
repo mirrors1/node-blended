@@ -8,7 +8,8 @@
     "getMinPrice": "node src/scripts/getProductsByMinPrice",
     "totalPrice": "node src/scripts/getTotalPrice",
     "productsCategores": "node src/scripts/getProductsCategores",
-    "modifyProducts": "node src/scripts/modifyProducts"
+    "modifyProducts": "node src/scripts/modifyProducts",
+    "groupProductByCategorysProkopchuk": "node src/scripts/groupProductByCategorysProkopchuk"
   },
   "keywords": [],
   "author": "Oleksandr Prokopchuk <sasha195@i.ua>",
