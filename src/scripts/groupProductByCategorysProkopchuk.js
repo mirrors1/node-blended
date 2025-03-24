@@ -12,7 +12,7 @@ const groupProductByCategorysProkopchuk = async () => {
     //Вибираємо в новий масив всі значення з ключа "category"
     const categories = products.map(({ category }) => category);
     //Зберігаємо в колекцію унікальні значення
-    const productsСategories = [...new set(categories)];
+    const productsСategories = [...new Set(categories)];
     //Створюємо новий об'єкт по умові ТЗ
     let objectResult = {};
     //Зберігаємо в об'єкт ключ (значення category)
