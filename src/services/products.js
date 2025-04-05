@@ -8,3 +8,6 @@ export const getProductsService = () => ProductsCollection.find();
 
 export const getProductsByIdService = (id) =>
   ProductsCollection.findOne({ _id: id });
+
+export const createProductService = (productData) =>
+  ProductsCollection.create(productData);
