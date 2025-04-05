@@ -1,21 +1,14 @@
-// export const ctrlWrapper = (controller) => {
-//   return async (req, res, next) => {
-//     try {
-//       await controller(req, res, next);
-//     } catch (err) {
-//       next(err);
-//     }
-//   };
-// };
+import { Router } from 'express';
+import {
+  productsByIdController,
+  productsController,
+} from '../controllers/products.js';
+import { ctrlWrapper } from '../utils/ctrlWrapper.js';
 
-export const ctrlWrapper = (controller) => {
-  const newFunction = async (req, res, next) => {
-    try {
-      await controller(req, res, next);
-    } catch (err) {
-      next(err);
-    }
-  };
+const productsRouter = Router();
 
-  return newFunction;
-};
+productsRouter.get('/products', ctrlWrapper(productsController));
+
+productsRouter.get('/products/:productId', ctrlWrapper(productsByIdController));
+
+export default productsRouter;
