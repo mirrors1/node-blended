@@ -10,13 +10,13 @@ import { ctrlWrapper } from '../utils/ctrlWrapper.js';
 const usersRouter = Router();
 
 usersRouter.post(
-  '/users/register',
+  '/signup',
   validateBody(createUserSchema),
   ctrlWrapper(registerUserController),
 );
 
 usersRouter.post(
-  '/user/login',
+  '/login',
   validateBody(loginUserSchema),
   ctrlWrapper(loginUserController),
 );
